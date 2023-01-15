@@ -19,7 +19,7 @@ while i>0:
   help()
  elif (cmd=="-tp"):
   addr=input(colored("target website>>","red"))
-  ping(addr, verbose=True, count=1000)
+  ping(addr, verbose=True, count=100)
  elif (cmd=="-exit"):
   print(colored("Thank For Using This Tool","white"))
   i=0
