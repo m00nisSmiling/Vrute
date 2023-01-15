@@ -1,0 +1,2 @@
+-h to use option 
+-tp to ping the target website
