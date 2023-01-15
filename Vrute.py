@@ -8,7 +8,6 @@ def logo():
  print(colored(lo.read(),color="blue",))
 logo()
 print(colored(" *developed by m00n","red",))
-print(colored(" -tp to ping the target website","red",))
 print(colored(" -h to show option command","red",))
 def help():
  file=open("help_cmd.txt","r")
