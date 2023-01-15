@@ -1,2 +1,3 @@
 -h to use option 
 -tp to ping the target website
+-exit to exit the tool
