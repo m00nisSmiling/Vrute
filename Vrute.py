@@ -1,3 +1,5 @@
+#Thanks For Using My Tool
+#use simple
 from termcolor import colored
 from pythonping import ping
 print(colored("                           BruteTOOTH ","blue"))
